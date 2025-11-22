@@ -1,0 +1,39 @@
+ age = 15
+
+if age>=10:
+
+    print("congrtulation you passed")
+
+else:
+
+    print("you failed. try again")
+
+------------------------------------------------
+
+
+
+
+
+score = 8
+
+if score>=10:
+
+    print("congrtulation you passed")
+
+else:
+
+    print("you failed.try again")
+
+-----------------------------------------------------------------------
+
+mum_a= 7
+
+mum_b =7
+
+if mum_a==mum_b:
+
+   print("the numbers are egual")
+
+else:
+
+    print("the numbers are diffent") 
