@@ -1,0 +1,3 @@
+year = 2025
+fav_subject = "Computer Science"
+print("I will be studying", fav_subject, "in", year, ".")
