@@ -63,5 +63,6 @@ These lessons form the backbone of any program, and mastering them is essential 
 
 ---
 
-**For a detailed journey, challenges faced, and reflections, please check the project's [Wiki page]([Wiki_Link](https://github.com/jumana14jumana44-create/A-weak-start-and-impressive-results/wiki)). Each step is documented for tracking progress and sharing knowledge with others.**
+**For a detailed journey, challenges faced, and reflections, please check the project's [Wiki page]([Wiki_Link](https://github.com/jumana14jumana44-create/A-weak-start-and-impressive-results/wiki))
+. Each step is documented for tracking progress and sharing knowledge with others.**
 
